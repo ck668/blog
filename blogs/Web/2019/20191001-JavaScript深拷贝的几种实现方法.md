@@ -1,13 +1,11 @@
 ---
 title: JavaScript深拷贝的几种实现方法
-date: 2017-10-01
+date: 2019-10-01
 tags:
  - JavaScript
 categories:
  -  JavaScript
 ---
-
-# 深拷贝的几种实现方法
 
 ## 使用JSON.stringify 和 JSON.parses
 
